@@ -25,6 +25,7 @@
     "@types/node": "^20.12.7",
     "@types/react": "^18.2.75",
     "@types/react-dom": "^18.2.24",
+    "@vercel/analytics": "^1.2.2",
     "autoprefixer": "^10.4.19",
     "gatsby-plugin-google-gtag": "^5.13.1",
     "gatsby-plugin-image": "^3.13.1",

@@ -1,5 +1,8 @@
 import React from "react";
 import type { HeadFC, PageProps } from "gatsby";
+import { inject } from "@vercel/analytics";
+
+inject();
 
 const pageStyles = {
   color: "#232129",
