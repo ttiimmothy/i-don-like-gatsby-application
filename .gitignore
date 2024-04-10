@@ -1,6 +1,6 @@
 node_modules/
 .cache/
-public/
+public/*
 !public/favicon.ico
 src/gatsby-types.d.ts
 .vscode/settings.json
